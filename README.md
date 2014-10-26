@@ -5,6 +5,7 @@
 As per course project requirements, this script allows the generation of a tidy data set of Means and Std from the UCI HAR data.
 
 run_analysis.R provides a function tidyUCIHAR that takes in 2 parameters: 
+
 1. the directory of the UCI HAR Dataset
 2. the output filename
 
