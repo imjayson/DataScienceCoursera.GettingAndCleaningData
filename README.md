@@ -1,6 +1,4 @@
-#Coursera Data Science Specilization
-##Getting And Cleaning Data
-###Course Project Code Book
+#Getting And Cleaning Data Course Project
 
 As per course project requirements, this script allows the generation of a tidy data set of Means and Std from the UCI HAR data.
 
