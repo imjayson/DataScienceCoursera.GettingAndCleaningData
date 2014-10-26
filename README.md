@@ -12,5 +12,6 @@ If you have the UCI HAR Dataset in your working directory, you can run the scrip
 source("run_analysis.R")
 tidyUCIHAR("./UCI HAR Dataset","output.txt")
 ```
+Note: The script depends on the "reshape" package. Kindly install before running the script.
 
 Please refer to the code book at Code.Book.csv or Code.Book.pdf (formatted) for variable description.
